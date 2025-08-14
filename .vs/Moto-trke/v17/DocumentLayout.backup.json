@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\Multimedijalna-Produkcija-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24ACCAA-D8A2-EA18-1D58-B62851D17A5F}|Assembly-CSharp-Editor-firstpass.csproj|e:\\repos\\multimedijalna-produkcija-master\\assets\\standard assets\\editor\\crossplatforminput\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24ACCAA-D8A2-EA18-1D58-B62851D17A5F}|Assembly-CSharp-Editor-firstpass.csproj|solutionrelative:assets\\standard assets\\editor\\crossplatforminput\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|e:\\repos\\multimedijalna-produkcija-master\\assets\\scripts\\position\\posup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\position\\posup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED0ACA-F884-4369-06CC-862341A22FB6}|Assembly-CSharp-firstpass.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\standard assets\\vehicles\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED0ACA-F884-4369-06CC-862341A22FB6}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\vehicles\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lapcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED0ACA-F884-4369-06CC-862341A22FB6}|Assembly-CSharp-firstpass.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\standard assets\\vehicles\\car\\scripts\\carusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED0ACA-F884-4369-06CC-862341A22FB6}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\vehicles\\car\\scripts\\carusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\carchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\buttonoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\racefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\racefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\halfpointtriger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\halfpointtriger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|E:\\repos\\Multimedijalna-Produkcija-master\\assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EC868-1219-BB79-48AE-A8FA96F915BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laptimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LapComplete.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\LapComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LapComplete.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\LapComplete.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LapComplete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:30:11.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrossPlatformInputInitialize.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwIEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:37:11.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA1wEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:10:43.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarUserControl.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Vehicles\\Car\\Scripts\\CarUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:10:28.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarChoice.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\CarChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarChoice.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\CarChoice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarChoice.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:01:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosUp.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\Position\\PosUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Position\\PosUp.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\Position\\PosUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Position\\PosUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:48:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonOption.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\ButtonOption.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonOption.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\ButtonOption.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonOption.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:31:48.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exit.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:18:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LapTimeManager.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\LapTimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LapTimeManager.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\LapTimeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LapTimeManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:07:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaceFinish.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\RaceFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaceFinish.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\RaceFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaceFinish.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:30:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HalfPointTriger.cs",
+              "DocumentMoniker": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\HalfPointTriger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HalfPointTriger.cs",
+              "ToolTip": "E:\\repos\\Multimedijalna-Produkcija-master\\Assets\\Scripts\\HalfPointTriger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HalfPointTriger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:30:25.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
